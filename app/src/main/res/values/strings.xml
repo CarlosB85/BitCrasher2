@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">BitCrasher2</string>
+
+    <string name="title_activity_inicio">Inicio</string>
+
+    <string name="Jugador_1">Jugador 1</string>
+    <string name="Jugador_2">Jugador 2</string>
+    <string name="Jugador_3">Jugador 3</string>
+
+    <string name="title_activity_menu">menu</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+
+</resources>

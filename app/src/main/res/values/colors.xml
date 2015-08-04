@@ -1,0 +1,11 @@
+<resources>
+
+    <color name="black_overlay">#66000000</color>
+    <color name="fondo">#000000</color>
+    <color name="azul">#002aff</color>
+    <color name="azul_claro">#858cc8</color>
+    <color name="azul_oscuro">#0013af</color>
+    <color name="verde">#b4ff00</color>
+    <color name="rojo">#c40505</color>
+
+</resources>
